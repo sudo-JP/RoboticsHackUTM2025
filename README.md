@@ -1,7 +1,3 @@
-# RoboticsHackUTM
-Inspiration
-Given the theme of the WallyHacks hackathon being sustainability, we were inspired by all of the different available sensors how these sensors can potentially help encourage planting and crop growth by making it easier.
-
 What it does
 The Green Defender is a robot that is plugged into the soil. It then detects the temperature, humidity and water level of the soil; these readings are all displayed on a screen at the top. Temperature and humidity are displayed numerically and based on the water level, the display indicates whether the plants should be watered or not. Additionally, the Green Defender has a super sonic sensor that can detect anything within a preset distance away from the robot (preferably within 3 meters). Once anything moving (such as an animal pursuing the plant or crop) is detected by the sensor, a buzzer on the robot is triggered and played for 20 seconds, scaring away any potential threat to the plant/crop.
 
