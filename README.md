@@ -7,4 +7,4 @@ The Green Defender was built using an Arduino UNO board, a bread board, jumper w
 ## Devpost 
 [Link to our Devpost](https://devpost.com/software/the-guardian-of-plants-and-trees)
 
-[Demo Vide](https://youtu.be/8uqyZ3T3HoA)
+[Demo Video](https://youtu.be/8uqyZ3T3HoA)
